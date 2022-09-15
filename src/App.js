@@ -20,7 +20,6 @@ const UnauthenticatedApp = lazy(() => import('./UnauthenticatedApp'))
 
 const GlobalStyle = createGlobalStyle`
 * {
-  border: 0;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
